@@ -1,5 +1,5 @@
 # Rocket_Landing
-Rocket Landing Simulation with PID Controllers.
+Landing Rocket Simulation with PID Controllers.
 
 You can run the file directly. PID's are purposefully left semi-tuned to show the motion of the rocket in x-y direction more clearly.
 
