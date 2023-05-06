@@ -3,7 +3,7 @@ Landing Rocket Simulation with PID Controllers.
 
 You can run the file directly. PIDs are purposefully left semi-tuned to show the motion of the rocket in x-y direction more clearly.
 
-System consist of three PID controllers. One for each cartesian axis. 
+System consists of three PID controllers. One for each cartesian axis. 
 
 
 
